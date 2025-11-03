@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.3d4bd5b8.css",
-    "main.js": "/static/js/main.99403b0f.js",
+    "main.js": "/static/js/main.9bbff0c1.js",
     "static/media/teeth.glb": "/static/media/teeth.5010be6fd3bbf82fef53.glb",
     "index.html": "/index.html",
     "main.3d4bd5b8.css.map": "/static/css/main.3d4bd5b8.css.map",
-    "main.99403b0f.js.map": "/static/js/main.99403b0f.js.map"
+    "main.9bbff0c1.js.map": "/static/js/main.9bbff0c1.js.map"
   },
   "entrypoints": [
     "static/css/main.3d4bd5b8.css",
-    "static/js/main.99403b0f.js"
+    "static/js/main.9bbff0c1.js"
   ]
 }
